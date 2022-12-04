@@ -115,3 +115,4 @@ npm install --save-dev prop-types
 5. Установка modern-normalize
 
    $ npm install modern-normalize
+# goit-react-template
